@@ -1,5 +1,5 @@
 # KePass-Password-Manager
- <h3 align="center">A local password management tool built with Python</h3>
+ <h3 align="center"> 🔐 A local password management tool built with Python</h3>
  
 ![MasterHead](https://cdn.discordapp.com/attachments/1296801162158407755/1299076310056046803/DALLE_2024-10-24_15.06.20_-_A_sharp_and_clean_version_of_a_simple_and_modern_logo_for_a_password_management_application_called_KePass._The_logo_retains_the_minimalist_design_wi.webp?ex=671be297&is=671a9117&hm=5c44a8c662b95eda8fdcc583b0543827ec336fc84f58a5695544f6431e4064ca&)
 
